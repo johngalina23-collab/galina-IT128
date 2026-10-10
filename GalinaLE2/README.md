@@ -1,3 +1,0 @@
-John Galina
-IT128L-[FOPM01]
-BSIT
