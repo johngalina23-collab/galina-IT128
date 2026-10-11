@@ -8,3 +8,13 @@ C:\Users\John Galina\source\repos\GalinaLE2\GalinaBlogDB\obj\Debug\postdeploy.sq
 C:\Users\John Galina\source\repos\GalinaLE2\GalinaBlogDB\obj\Debug\predeploy.sql
 C:\Users\John Galina\source\repos\GalinaLE2\GalinaBlogDB\obj\Debug\GalinaBlogDB.dll
 C:\Users\John Galina\source\repos\GalinaLE2\GalinaBlogDB\obj\Debug\GalinaBlogDB.pdb
+C:\Users\John Galina\Desktop\galina-IT128\GalinaLE3\GalinaBlogDB\bin\Debug\GalinaBlogDB.dacpac
+C:\Users\John Galina\Desktop\galina-IT128\GalinaLE3\GalinaBlogDB\bin\Debug\GalinaBlogDB.dll
+C:\Users\John Galina\Desktop\galina-IT128\GalinaLE3\GalinaBlogDB\bin\Debug\GalinaBlogDB.pdb
+C:\Users\John Galina\Desktop\galina-IT128\GalinaLE3\GalinaBlogDB\obj\Debug\GalinaBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\John Galina\Desktop\galina-IT128\GalinaLE3\GalinaBlogDB\obj\Debug\GalinaBlogDB.dll
+C:\Users\John Galina\Desktop\galina-IT128\GalinaLE3\GalinaBlogDB\obj\Debug\GalinaBlogDB.pdb
+C:\Users\John Galina\Desktop\galina-IT128\GalinaLE3\GalinaBlogDB\obj\Debug\Model.xml
+C:\Users\John Galina\Desktop\galina-IT128\GalinaLE3\GalinaBlogDB\obj\Debug\refactor.xml
+C:\Users\John Galina\Desktop\galina-IT128\GalinaLE3\GalinaBlogDB\obj\Debug\postdeploy.sql
+C:\Users\John Galina\Desktop\galina-IT128\GalinaLE3\GalinaBlogDB\obj\Debug\predeploy.sql
